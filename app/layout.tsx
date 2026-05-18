@@ -4,6 +4,8 @@ import "./globals.css";
 import { siteData } from "./site-data";
 import Navbar from "./Navbar";
 import { LanguageProvider } from "./LanguageContext";
+import ObfuscatedEmail from "./ObfuscatedEmail";
+import SchemaMarkup from "./SchemaMarkup";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -17,8 +19,29 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: siteData.name,
+  title: {
+    default: siteData.seoTitle,
+    template: `%s | ${siteData.name}`,
+  },
   description: siteData.description,
+  metadataBase: new URL("https://perfectlab270.in"),
+  alternates: {
+    canonical: "./",
+  },
+  openGraph: {
+    title: siteData.seoTitle,
+    description: siteData.description,
+    url: "https://perfectlab270.in",
+    siteName: siteData.name,
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: siteData.seoTitle,
+    description: siteData.description,
+    creator: "@perfectlab270",
+  },
 };
 
 export default function RootLayout({
@@ -34,6 +57,7 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col bg-slate-50 text-slate-800">
         
         <LanguageProvider>
+          <SchemaMarkup />
           {/* Global Navbar and page components inside Provider */}
           <Navbar />
 
@@ -43,7 +67,7 @@ export default function RootLayout({
 
             {/* Shared Footer */}
             <footer className="bg-slate-900 text-slate-400 py-12 px-4 border-t border-slate-800">
-              <div className="max-w-6xl mx-auto grid sm:grid-cols-2 md:grid-cols-3 gap-8">
+              <div className="max-w-6xl mx-auto grid sm:grid-cols-2 md:grid-cols-4 gap-8">
                 <div className="space-y-4">
                   <h4 className="font-bold text-white text-lg">Perfect Laboratory</h4>
                   <p className="text-sm leading-relaxed">
@@ -62,7 +86,27 @@ export default function RootLayout({
                   <h4 className="font-bold text-white text-base mb-4">Help & Emergency</h4>
                   <p className="text-sm">Helpline: {siteData.emergencyContact}</p>
                   <p className="text-sm font-semibold text-emerald-500">WhatsApp: {siteData.whatsappNumber}</p>
-                  <p className="text-sm">Email: {siteData.email}</p>
+                  <p className="text-sm">Email: <ObfuscatedEmail /></p>
+                </div>
+                <div>
+                  <h4 className="font-bold text-white text-base mb-4">Connect With Us</h4>
+                  <div className="flex flex-col space-y-2 text-sm">
+                    <a href={siteData.socials.facebook} target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 transition-colors flex items-center gap-2">
+                      <span>📘</span> Facebook Page
+                    </a>
+                    <a href={siteData.socials.twitter} target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 transition-colors flex items-center gap-2">
+                      <span>🐦</span> X (Twitter) Profile
+                    </a>
+                    <a href={siteData.socials.instagram} target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 transition-colors flex items-center gap-2">
+                      <span>📸</span> Instagram Profile
+                    </a>
+                    <a href={siteData.socials.linkedin} target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 transition-colors flex items-center gap-2">
+                      <span>💼</span> LinkedIn Company
+                    </a>
+                    <a href={siteData.socials.youtube} target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 transition-colors flex items-center gap-2">
+                      <span>📺</span> YouTube Channel
+                    </a>
+                  </div>
                 </div>
               </div>
               <div className="max-w-6xl mx-auto border-t border-slate-800 mt-8 pt-8 flex flex-col items-center gap-2 text-center text-xs">

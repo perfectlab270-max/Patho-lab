@@ -74,11 +74,19 @@ let _cachedAllTests: Test[] | null = null;
 
 export const siteData = {
   name: "Perfect Laboratory",
+  seoTitle: "Perfect Laboratory | Best NABL Pathology Lab & Free Home Collection",
   tagline: "Accurate Reports, Compassionate Patient Care",
-  description: "Perfect Laboratory is a premier, fully-automated NABL-accredited pathology laboratory dedicated to providing high-quality, fast, and patient-centered diagnostic services. We strive to make health testing painless and easily accessible through home collections and digital report delivery.",
+  description: "Perfect Laboratory is an NABL-accredited diagnostic lab offering accurate blood tests and free home sample collection with digital reports in Vapi.",
   emergencyContact: "+919784162270",
   whatsappNumber: "+919784162270",
   email: "perfectlab270@gmail.com",
+  socials: {
+    facebook: "https://facebook.com/perfectlaboratory",
+    twitter: "https://x.com/perfectlab270",
+    instagram: "https://instagram.com/perfectlaboratory",
+    linkedin: "https://linkedin.com/company/perfect-laboratory",
+    youtube: "https://youtube.com/@perfectlaboratory"
+  },
   googleMapsUrl: "https://maps.app.goo.gl/5B4DiJRZj8ptk8P5A",
   googleMapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1936.2537777822383!2d72.92593800365285!3d20.355732402414223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be0cf9db15ad297%3A0xb10a858116e6ddc9!2sPerfect%20Laboratory!5e1!3m2!1sen!2sin!4v1779044283963!5m2!1sen!2sin",
   accreditations: [

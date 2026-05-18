@@ -1,0 +1,28 @@
+# Perfect Laboratory (NABL Accredited Diagnostics)
+
+Perfect Laboratory is a premium, fully-automated NABL-accredited pathology laboratory dedicated to providing high-quality, fast, and patient-centered diagnostic services.
+
+## Clinical Services & Capabilities
+- **Home sample collection**: Available everyday from 6:00 AM to 10:00 PM across Vapi and surroundings.
+- **Accreditation details**: NABL Standard Accreditation (MC-8765), ISO 15189:2012 Quality Management, CMC Vellore EQAS audit participant.
+- **Report Turnaround**: Digital reports delivered within 12 hours via registered WhatsApp number and secure email verification.
+
+## Main Application Routes
+- `/` - Home page outlining diagnostic technologies, accreditation badges, and curated clinical packages.
+- `/tests` - Large-scale filterable diagnostic test catalog supporting search, price ranges, and preparation details.
+- `/book` - Interactive patient phlebotomy booking scheduler.
+- `/quality` - Technical overview of NABL standards, calibration, and MD Pathologist validations.
+- `/reports` - Secure Receipt ID portal to track and retrieve clinical report statuses.
+- `/faq` - Patient onboarding documentation concerning fasting, sample care, and billing.
+- `/gallery` - Visual gallery of sterile lab instrumentation and sample collection phlebotomists.
+
+## Key Curated Packages
+1. **Wellness Package 1.1** - Kidney, GFR, Liver, Lipids, Iron, and Thyroid (T3, T4, TSH) screenings. Fasting mandatory.
+2. **Wellness Package 1.2** - CBS, HbA1c, Kidney, GFR, LFT, Lipid, Iron, Thyroid, and Electrolyte diagnostics.
+3. **Wellness Package 1.3** - Super Premium panel adding Vitamin D, Vitamin B12, Testosterone, Amylase, and Lipase.
+4. **HY Fitness Packages (1.1, 1.2, 1.3)** - Layered medical evaluations covering 39, 65, and 68 diagnostic parameters.
+5. **HY Fitness Master Packages (1, 2, 3, 4)** - Complete diagnostic maps containing up to 100 markers including urine analysis R/M, RA factor, ASO Titre, and metabolic profiles.
+
+## Direct Action Integration
+- **Helpline Bookings**: Call or WhatsApp at +919784162270 to schedule phlebotomy instantly.
+- **Support Contact**: perfectlab270@gmail.com.
