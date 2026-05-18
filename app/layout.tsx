@@ -65,8 +65,11 @@ export default function RootLayout({
                   <p className="text-sm">Email: {siteData.email}</p>
                 </div>
               </div>
-              <div className="max-w-6xl mx-auto border-t border-slate-800 mt-8 pt-8 text-center text-xs">
+              <div className="max-w-6xl mx-auto border-t border-slate-800 mt-8 pt-8 flex flex-col items-center gap-2 text-center text-xs">
                 <p>&copy; {new Date().getFullYear()} {siteData.name}. All rights reserved.</p>
+                <p className="text-slate-500">
+                  Powered by <a href="https://davlabs.in" target="_blank" rel="noopener noreferrer" className="text-emerald-500 hover:text-emerald-400 font-medium transition-colors">Davlabs.in</a>
+                </p>
               </div>
             </footer>
 

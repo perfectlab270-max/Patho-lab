@@ -23,6 +23,8 @@ export default function TestsPage() {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("");
 
+  const [visibleCount, setVisibleCount] = useState(20);
+
   const categories = useMemo(() => {
     const list = new Set(siteData.tests.map((t) => language === "hi" ? t.categoryHindi : t.category));
     return Array.from(list);
@@ -45,6 +47,12 @@ export default function TestsPage() {
       return matchesSearch && matchesCategory;
     });
   }, [searchQuery, selectedCategory, language]);
+
+  // Reset pagination when search or category changes
+  React.useEffect(() => {
+    setVisibleCount(20);
+  }, [searchQuery, selectedCategory, language]);
+
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-12 space-y-8 animate-fadeIn">
@@ -98,7 +106,7 @@ export default function TestsPage() {
 
       {/* Test Catalog - Soft Matrix */}
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-[1px] bg-slate-200 border border-slate-200 rounded-[2rem] overflow-hidden shadow-xs items-stretch mt-4">
-        {filteredTests.map((test) => {
+        {filteredTests.slice(0, visibleCount).map((test) => {
           const testName = language === "hi" ? test.nameHindi : test.name;
           const testDesc = language === "hi" ? test.descriptionHindi : test.description;
           const testCat = language === "hi" ? test.categoryHindi : test.category;
@@ -181,6 +189,18 @@ export default function TestsPage() {
           </div>
         )}
       </div>
+
+      {/* Load More Button */}
+      {visibleCount < filteredTests.length && (
+        <div className="flex justify-center mt-8 pb-4">
+          <button
+            onClick={() => setVisibleCount((prev) => prev + 20)}
+            className="px-8 py-3 bg-slate-900 text-white text-sm font-bold tracking-widest uppercase rounded-full shadow-md hover:bg-teal-700 transition-colors"
+          >
+            {language === "hi" ? "और दिखाएं" : "Load More"}
+          </button>
+        </div>
+      )}
 
     </div>
   );
