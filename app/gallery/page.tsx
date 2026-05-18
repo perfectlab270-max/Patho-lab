@@ -24,16 +24,20 @@ export default function GalleryPage() {
         </p>
       </div>
 
-      {/* Grid of Images with Tasteful Hover Effects */}
-      <div className="grid sm:grid-cols-2 gap-[1px] bg-slate-200 border-y border-slate-200">
+      {/* Grid of Images with Rounded Borders - Clean and Minimalist */}
+      <div className={`grid ${galleryItems.length === 1 ? 'place-items-center' : 'sm:grid-cols-2 gap-8'} max-w-5xl mx-auto`}>
         {galleryItems.map((item, idx) => (
-          <div key={idx} className="group aspect-[4/3] overflow-hidden bg-white relative">
+          <div 
+            key={idx} 
+            className="group aspect-[4/3] w-full max-w-2xl overflow-hidden bg-white relative rounded-[2rem] border border-slate-200/80 shadow-md hover:shadow-xl transition-all duration-500"
+          >
             <img 
               src={item.url} 
-              alt="Clinical laboratory facility"
-              className="w-full h-full object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700 ease-out group-hover:scale-105"
+              alt={language === "hi" ? item.titleHindi : item.title}
+              className="w-full h-full object-cover grayscale opacity-90 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700 ease-out group-hover:scale-105"
             />
-            <div className="absolute inset-0 border border-slate-900/10 pointer-events-none"></div>
+            {/* Sterile thin white inner highlight */}
+            <div className="absolute inset-0 border border-white/10 rounded-[2rem] pointer-events-none"></div>
           </div>
         ))}
       </div>

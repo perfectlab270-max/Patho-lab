@@ -348,63 +348,13 @@ export default function Home() {
               {language === "hi" ? "आपातकालीन सैंपल जमा करने या रिपोर्ट सहायता के लिए पधारें।" : "Conveniently located for direct emergency biological drop-offs and urgent guidance."}
             </p>
           </div>
-          <div className="border border-slate-200 min-h-[400px] w-full bg-slate-900 rounded-[2rem] overflow-hidden shadow-xl grid md:grid-cols-12 text-white">
-            <div className="md:col-span-5 p-8 sm:p-12 flex flex-col justify-between space-y-8 bg-teal-950">
-              <div className="space-y-4">
-                <span className="inline-block bg-teal-800/80 text-teal-200 text-xs px-3 py-1 rounded-full font-semibold uppercase tracking-wider">
-                  {language === "hi" ? "मुख्य शाखा" : "Primary Facility"}
-                </span>
-                <h4 className="text-2xl font-serif font-bold text-white">
-                  {language === "hi" ? "परफेक्ट लैबोरेट्री शाखा" : "Perfect Laboratory, Vapi"}
-                </h4>
-                <div className="space-y-3 text-sm text-teal-100">
-                  <p className="flex items-start gap-3">
-                    <span className="text-emerald-400 font-bold">📍</span>
-                    <span>Perfect Laboratory, Vapi, Gujarat 396191</span>
-                  </p>
-                  <p className="flex items-start gap-3">
-                    <span className="text-emerald-400 font-bold">📞</span>
-                    <span>{siteData.emergencyContact}</span>
-                  </p>
-                  <p className="flex items-start gap-3">
-                    <span className="text-emerald-400 font-bold">⏰</span>
-                    <span>{siteData.timings.weekdays}</span>
-                  </p>
-                </div>
-              </div>
-              <a 
-                href={siteData.googleMapsUrl} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center bg-teal-500 hover:bg-teal-400 text-slate-950 font-bold px-6 py-3 rounded-xl transition-all duration-300 transform hover:scale-[1.02] shadow-md text-sm text-center"
-              >
-                {language === "hi" ? "गूगल मैप्स पर रास्ता देखें" : "Open in Google Maps"}
-              </a>
-            </div>
-            
-            <div className="md:col-span-7 relative bg-slate-950 flex items-center justify-center p-8 overflow-hidden group">
-              <div className="absolute inset-0 opacity-10 bg-[linear-gradient(to_right,#808080_1px,transparent_1px),linear-gradient(to_bottom,#808080_1px,transparent_1px)] bg-[size:24px_24px]"></div>
-              
-              <div className="relative z-10 text-center space-y-6 max-w-sm">
-                <div className="w-20 h-20 bg-teal-900/50 rounded-full border border-teal-500 flex items-center justify-center mx-auto shadow-lg group-hover:scale-110 transition-transform duration-500">
-                  <span className="text-teal-400 text-3xl font-bold">📍</span>
-                </div>
-                <div className="space-y-2">
-                  <h5 className="font-bold text-white text-lg">
-                    {language === "hi" ? "100% स्वच्छ डायग्नोस्टिक जोन" : "100% Sterile Diagnostic Zone"}
-                  </h5>
-                  <p className="text-xs text-slate-400 leading-relaxed">
-                    {language === "hi" 
-                      ? "अल्ट्रा-क्लीन और धूल मुक्त प्रोसेसिंग क्षेत्र जो आईएसओ और एनएबीएल के कड़े मानकों पर खरे उतरते हैं।" 
-                      : "Ultra-clean, state-of-the-art biological processing labs under fully NABL audited medical protocols."}
-                  </p>
-                </div>
-                
-                <div className="text-slate-500 text-[10px] font-mono tracking-widest uppercase">
-                  Lat: 20.3557° N | Lon: 72.9259° E
-                </div>
-              </div>
-            </div>
+          <div className="border border-slate-200 h-[450px] w-full bg-slate-100 rounded-[2rem] overflow-hidden shadow-xs">
+            <iframe 
+              src={siteData.googleMapsEmbedUrl}
+              className="w-full h-full border-0 grayscale contrast-125 opacity-90 hover:grayscale-0 hover:opacity-100 transition-all duration-700" 
+              allowFullScreen={false} 
+              loading="lazy"
+            ></iframe>
           </div>
         </div>
       </section>
