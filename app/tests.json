@@ -1,0 +1,5668 @@
+{
+  "example_for_llm": {
+    "category": "Blood Test",
+    "test_name": "Complete Blood Count (CBC)",
+    "mrp": 300,
+    "sample_collection": "EDTA Blood"
+  },
+  "tests": [
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": ".3 Fitness Advance",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "OH Progesterone",
+      "MRP": 1300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "hour urine catecholamines",
+      "MRP": 2100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "HOURS BENCE JONES PROTEIN URINE",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "hours urine Protein/Creatinine Ratio",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "OH VITAMIN D 3 TOTAL",
+      "MRP": 1400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "-Dihydrotestosterone (DHT)",
+      "MRP": 2700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "ABO Group & RH Type (Blood Group)",
+      "MRP": 120,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Absolute Basophil Count",
+      "MRP": 120,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Absolute Eosinophil Count (AEC)",
+      "MRP": 120,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Absolute Lymphocyte Count",
+      "MRP": 120,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Absolute Neutrophil Count",
+      "MRP": 120,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Acetylcholine receptor (AChR) antibody",
+      "MRP": 2700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Acid Phosphtase",
+      "MRP": 170,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Activated Partial Thromboplastin Time (APTT/PTTK)",
+      "MRP": 500,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "Activated protein C resistance (APCR)",
+      "MRP": 3000,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "Activated protein S resistance (APSR)",
+      "MRP": 2500,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Adenosine Deaminase (ADA) FOR CSF",
+      "MRP": 600,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Adenosine Deaminase (ADA) For Fluids",
+      "MRP": 600,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Adenosine Deaminase (ADA) FOR PUS",
+      "MRP": 600,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Adenosine Deaminase (ADA) For Serum",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Adreno Corticotrophic Hormone (ACTH)",
+      "MRP": 3600,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB C/S (ANY FLUID)",
+      "MRP": 1000,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB C/S (PUS) 42 DAY",
+      "MRP": 1000,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB C/S (SPUTUM)",
+      "MRP": 1000,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB C/S (TISSUE)",
+      "MRP": 1000,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "AFB C/S (URINE)",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 1ST Sample FOR FLUID",
+      "MRP": 200,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 1ST Sample FOR PUS",
+      "MRP": 200,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 1ST Sample FOR SPUTUM",
+      "MRP": 200,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "AFB Stain (Z-N Stain) 1ST Sample FOR URINE",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 2ND Sample FOR FLUID",
+      "MRP": 200,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 2ND Sample FOR PUS",
+      "MRP": 200,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 2ND Sample FOR SPUTUM",
+      "MRP": 200,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "AFB Stain (Z-N Stain) 2ND Sample FOR URINE",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 3RD Sample FOR FLUID",
+      "MRP": 200,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 3RD Sample FOR PUS",
+      "MRP": 200,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AFB Stain (Z-N Stain) 3RD Sample FOR SPUTUM",
+      "MRP": 200,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "AFB Stain (Z-N Stain) 3RD Sample FOR URINE",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Albert Stain (Diphtheria Bacilli)",
+      "MRP": 150,
+      "Sample Collection": "THROAT SWAB"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Albumin, Body Fluid",
+      "MRP": 150,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Albumin, Serum",
+      "MRP": 100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "ALBUMIN/CREATININE RATIO (URINE)",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "ALBUMIN/CREATININE RATIO (URINE), 24 Hours",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "ALBUMIN/CREATININE RATIO, SERUM",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ALBUMIN/GLOBULIN RATIO",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Alcohol (Ethonol), SERUM",
+      "MRP": 650,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Alcohol (Ethonol), URINE",
+      "MRP": 650,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Aldolase",
+      "MRP": 650,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Aldosterone",
+      "MRP": 1600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Aldosterone Renin ratio",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Plasma,\nSerum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Alkaline Phosphatase (ALP)",
+      "MRP": 100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY CONTACT",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY FOOD AND NON VEG",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY PANEL II",
+      "MRP": 500,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY PROFILE",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "Allergy profile without nonveg",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY PROFILE-3",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY PROFILE-4",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY PROFILE-5",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY SKIN & FOOD ALLERGY",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "Allergy veg panal",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "ALLERGY, SESAME",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Alpha Fetoprotein (AFP), SERUM",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Alpha Fetoprotein(AFP), CSF",
+      "MRP": 800,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Alpha Fetoprotein(AFP), FLUID",
+      "MRP": 800,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Alpha-1 Acid Glycoprotein",
+      "MRP": 4100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Alpha-1 Antitrypsin",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Aluminum",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "AMH PLUS",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "AMINO ACID PROFILE",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AMINO ACID QUALITATIVE, CSF",
+      "MRP": 1500,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AMINO ACID QUALITATIVE, PLASMA",
+      "MRP": 1200,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "AMINO ACID QUALITATIVE, URINE",
+      "MRP": 1500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AMMONIA",
+      "MRP": 1000,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AMOEBIC SEROLOGY IgG",
+      "MRP": 1300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Amphetamine (Qualitative) Urine",
+      "MRP": 700,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Amphetamine (Quantitative), SERUM",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Amylase (Serum)",
+      "MRP": 450,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Amylase FLUID",
+      "MRP": 450,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Amylase URINE",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANA PROFILE ELISA",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANA PROFILE IMMUNOBLOT",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "Anaemia Profile - I",
+      "MRP": 2300,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "ANC PROFILE",
+      "MRP": 2300,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "ANC PROFILE 2",
+      "MRP": 2100,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "ANC PROFILE NEW RAPID",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n03,\nSerum,"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "ANCA - Myeloperoxidase (p-ANCA)",
+      "MRP": 1000,
+      "Sample Collection": "SUerriunme"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "ANCA - Serine Proteinase (c-ANCA)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Androgen Index",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Androstenedione (A4)",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANEMIA PROFILE - A",
+      "MRP": 4200,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANEMIA PROFILE - B",
+      "MRP": 5500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANEMIA PROFILE - C",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANEMIA PROFILE - I",
+      "MRP": 2300,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANEMIA PROFILE - III",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANEMIA PROFILE - M",
+      "MRP": 3200,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ANEMIA PROFILE II",
+      "MRP": 2300,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANEMIA STUDY",
+      "MRP": 3500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANGELMAN SYNDROME",
+      "MRP": 7000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Angiotensin Converting Enzyme(ACE), CSF",
+      "MRP": 1000,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Angiotensin Converting Enzyme(ACE), SERUM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti Chlamydia Trachomatis IgG",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti Chlamydia Trachomatis IgM",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti Cyclic Citrullinated Peptide Antibody (Anti-CCP)",
+      "MRP": 1600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti DNase Antibodies",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti ds DNA Antibody",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI GLIADIN ANTIBODY",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI GLIADIN ANTIBODY IGA",
+      "MRP": 1700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI GLIADIN ANTIBODY IGG",
+      "MRP": 1700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI GLOMERULAR BASEMENT MEMBRANE ANTIBODY",
+      "MRP": 1800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "(AAnNtiT HI GBcB MTO ATNALTIBODY)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti Jo-I antibody",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti Microsomal/Thryroperoxidase Antibody (AMA/Anti",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "TAPnOti )M Tiutrlleerian Hormone (AMH)",
+      "MRP": 1800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI MuSK (MUSCLE SPECIFIC KINASE) ANTIBODY",
+      "MRP": 5500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI NMDA RECEPTOR/ANTI GLUTAMATE ANTIBODY,",
+      "MRP": 6000,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FALNUTIID NMDA RECEPTOR/ANTI GLUTAMATE ANTIBODY,",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SAENRTUI MNUCLEAR ANTIBODY (ANA)",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI NUCLEAR ANTIBODY (ANA-IFA)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "ANTI PHOSPHOLIPID ANTIBODY (APL) - IgG",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "ANTI PHOSPHOLIPID ANTIBODY (APL) - IgG,IgM",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "ANTI PHOSPHOLIPID ANTIBODY (APL) - IgM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "anti smith antibody",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti Smooth Muscle Antibody (ASMA)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "ANTI SOLUBLE LIVER ANTIGEN (SLA)",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTI SPERM ANTIBODY, SERUM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti SS-A (RO) Antibody",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti SS-B (LA) Antibody",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti streptolysin-0 ( ASO) Titre",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti Thyroglobulin Antibody (Anti-TG)",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti-DGP IgA",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti-NMO (AQUAPORIN 4)",
+      "MRP": 4500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Anti-Nuclear Antibodies HEp-2 (ANA-HEp-2)",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "Anti-TPO antibodies",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Antidiuretic hormone (ADH)",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ANTIMOG (MYELIN OLIGODENDROCYTE GLYCOPROTEIN)",
+      "MRP": 6500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Antithrombin III",
+      "MRP": 6000,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "APLA PROFILE",
+      "MRP": 4000,
+      "Sample Collection": "Citrated Plasma,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Apolipoprotein A1 (APO-A1)",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Apolipoprotein B (APO-B)",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "APOLIPOPROTEIN B/A1",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ARTHRITIS BASIC PANEL",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ARTHRITIS BASIC PANEL - 2",
+      "MRP": 6000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Arthritis first",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ARTHRITIS PANAL (MINI)",
+      "MRP": 1500,
+      "Sample Collection": "Serum,\nUrine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ARTHRITIS PANAL I",
+      "MRP": 1500,
+      "Sample Collection": "Serum,\nUrine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ARTHRITIS PANAL II",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ARTHRITIS PROFILE - A",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ARTHRITIS PROFILE - B",
+      "MRP": 5500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ARTHRITIS PROFILE - C",
+      "MRP": 10000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "ARTHRITIS PROFILE - M",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "ASCA IgG (ANTI SACCHAROMYCES CEREVISIAE",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "AANSCTAIB IOgAD Y(A)NTI SACCHAROMYCES CEREVISIAE ANTIBODY)",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Aspergillus Antibody - IgG & IgM",
+      "MRP": 3200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ASPERGILLUS ANTIBODY IgG",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ASPERGILLUS ANTIBODY IgM",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "Aspergillus fumigatus IgE",
+      "MRP": 1800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Aspergillus fumigatus IgG",
+      "MRP": 1800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "B-TYPE NATRIURETIC PEPTIDE (BNP)",
+      "MRP": 1700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BABESIA MICROTI ANTIBODIES IgG & IgM",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "BAD OBSRETRIC HISTORY PROFILE",
+      "MRP": 11500,
+      "Sample Collection": "Citrated Plasma,\nEDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Barbiturates (Qualitative)",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Barbiturates (Quantitative)",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BCR-ABL International Scale PCR (Method: Real Time PCR)",
+      "MRP": 9500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "BENCE JONES PROTEIN URINE, QUALITATIVE",
+      "MRP": 550,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Benzodiazepines (Qualitative)",
+      "MRP": 700,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Benzodiazepines (Quantitative)",
+      "MRP": 800,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Beta 2 Microglobulin, SERUM",
+      "MRP": 1300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Beta 2 Microglobulin, URINE",
+      "MRP": 1300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Beta cell function",
+      "MRP": 2300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "Beta Human Chorionic Gonodotropin Hormone (BHCG)",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "Beta Human Chorionic Gonodotropin Hormone (BHCG),",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "UBeRtIaN-E2- Glycoprotein-1 IgA",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Beta-2- Glycoprotein-1 IgG",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Beta-2- Glycoprotein-1 IgM",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Bicarbonate",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BILE ACIDS TOTAL",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Bilirubin (Total + Direct + Indirect)",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Bilirubin, Body Fluid",
+      "MRP": 250,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BIO-T PLUS",
+      "MRP": 1600,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine,\nFluoride Plasma-01"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BIOT-PLATINUM",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood,\nSerum,\nFluoride Plasma-\n01,"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "BIOTIN (VITAMIN B7)",
+      "MRP": 1300,
+      "Sample Collection": "SUerriunme"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "BIOTINIDASE ACTIVITY QUANTITATIVE BLOOD",
+      "MRP": 3600,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BLEEDING TIME AND CLOTTING TIME (BT, CT)",
+      "MRP": 200,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "BLOOD C/S Anaerobic",
+      "MRP": 1200,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "BLOOD C/S BACTEC",
+      "MRP": 1200,
+      "Sample Collection": "Blood culture"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Blood c/s bictec Aerobic",
+      "MRP": 1200,
+      "Sample Collection": "Hbeoptatlrein"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Blood Toxic Element Profile 21 test",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Blood Toxic Element Profile 9 test",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BODY FLUID FOR GRAM STAIN",
+      "MRP": 150,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Bone marrow",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Blood,\nSLIDE"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "BONE PROFILE - A",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "BONE PROFILE - B",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "BONE PROFILE - C",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "BONE PROFILE - M",
+      "MRP": 2300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BREAST DISCHARGE C/S",
+      "MRP": 600,
+      "Sample Collection": "BREAST"
+    },
+    {
+      "Category": "General",
+      "Test Name": "BREAST PROGNOSIS SCREEN",
+      "MRP": 2000,
+      "Sample Collection": "DISbClHoAckRGE"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Bronchoalveolar Lavage (BAL) Cytology",
+      "MRP": 500,
+      "Sample Collection": "Bronchoalveolar"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Brucella IgG",
+      "MRP": 1100,
+      "Sample Collection": "SSeWruAmB"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Brucella IgG & IgM",
+      "MRP": 2100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Brucella IgM",
+      "MRP": 1100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "BUN (Blood Urea Nitrogen)",
+      "MRP": 100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "C Reactive Protein (CRP) Quantitative",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "C-Peptide",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "C-PEPTIDE (F)",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "C-PEPTIDE (PP)",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "C-Peptide 24 hrs urine",
+      "MRP": 900,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "C-Peptide Urine Random",
+      "MRP": 900,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "c1 esterase inhibitor",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CA 125- (FLUID)",
+      "MRP": 800,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CA 19.9 (FLUID)",
+      "MRP": 1200,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CA-27.29 Stage II or III breast Cancer",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CA-72.4 GASTRIC CANCER MARKER",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CA125 - Ovarian Cancer marker",
+      "MRP": 1100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CA15.3 - Breast Cancer marker",
+      "MRP": 1350,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CA19.9 - Pancreatic Cancer Marker",
+      "MRP": 1350,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "CADMIUM BLOOD",
+      "MRP": 3200,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Calcitonin",
+      "MRP": 2100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Calcium",
+      "MRP": 100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Calcium - 24 hrs urine",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Calcium - Spot urine",
+      "MRP": 100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Calcium/Creatinine - Ratio, URINE",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Calprotectin, SERUM",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CANCER MARKER - II (FEMALE)",
+      "MRP": 5500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CANCER PANEL (MALE)",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "Carcino embryonic antigen (CEA)",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "CARDIAC PANEL - II",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "CARDIAC PANEL-I",
+      "MRP": 1100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "CARDIAC PROFILE - A",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "CARDIAC PROFILE - B",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "CARDIAC PROFILE - C",
+      "MRP": 7000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "CARDIAC PROFILE - M",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "CARDIAC RISK MARKERS",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cardiolipin Antibodies IgA",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cardiolipin Antibodies IgA,IgG,IgM",
+      "MRP": 2200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cardiolipin Antibodies IgG",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cardiolipin Antibodies IgM",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CD 19",
+      "MRP": 2500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CD3 Flow Cytometry",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CD3-CD4-CD8-CD45 + WBC",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CD4",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CD4 Flow Cytometry",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CD8 Flow Cytometry",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CEA (FLUID)",
+      "MRP": 800,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Centromere Antibodies, IgG",
+      "MRP": 1300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cerebrospinal Fluid (CSF) Cytology",
+      "MRP": 500,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cervical Swab C/S",
+      "MRP": 500,
+      "Sample Collection": "Cervical Swab"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Chikungunya IgG & IgM",
+      "MRP": 1700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Chikungunya-IgG",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Chikungunya-IgM",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Chloride - 24 hrs Urine",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Chloride - CSF",
+      "MRP": 300,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Chloride - SERUM",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Chloride - Urine Random",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "Cholesterol HDL",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "Cholesterol LDL",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "Cholesterol Total",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "Cholesterol Urine",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cholinesterase",
+      "MRP": 450,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cholylglycine (CG)",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "CHROMOGRANIN (URINE)",
+      "MRP": 4000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CHROMOGRANIN A; CGA",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Chromosome Analysis, Blood (Karyotyping)",
+      "MRP": 4000,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Citric Acid, Urine 24 Hours",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cobalamine",
+      "MRP": 1300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cocaine",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cold agglutinin test",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Collagen IV",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Complement 3 (C3)",
+      "MRP": 650,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Complement 4 (C4)",
+      "MRP": 650,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Complete Blood Count (CBC)",
+      "MRP": 300,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Complete Blood Count (CBC) +ESR",
+      "MRP": 400,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Complete Blood Count (CBC) +PS+ESR",
+      "MRP": 500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "COMPLETE INFERTILITY PROFILE",
+      "MRP": 6000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "COMPLETE VITAMIN PROFILE",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Copper (24 hrs Urine)",
+      "MRP": 1800,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Copper (Serum)",
+      "MRP": 1250,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Copper (Urine Random)",
+      "MRP": 900,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Corticosterone",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Cortisol spot urine",
+      "MRP": 800,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Cortisol (24 Hrs Urine)",
+      "MRP": 800,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "CORTISOL , Serum",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "CORTISOL - PP, Serum",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "COTININE URINE",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "COW MILK C/S",
+      "MRP": 400,
+      "Sample Collection": "COW MILK"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CPK-MB (creatine kinase myocardial band)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Creatine kinase",
+      "MRP": 550,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Creatine phosphokinase (CPK TOTAL)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Creatinine",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Creatinine Clearance Test",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Creatinine Random Urine",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Creatinine,24 Hours Urine",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Creatinine,With GFR",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cryofibrinogen qualitative",
+      "MRP": 2000,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cryoglobulins",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "Cryptococcal Antigen",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "CRYPTOCOCCUS ANTIGEN, CSF",
+      "MRP": 4000,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "CRYPTOCOCCUS ANTIGEN, SERUM",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CSF AFB STAIN",
+      "MRP": 300,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CSF C/S",
+      "MRP": 600,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "CSF FOR TB PCR",
+      "MRP": 1500,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CSF GRAM STAIN",
+      "MRP": 300,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CSF R/M",
+      "MRP": 450,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CSF- monoclonal antibodies igg index",
+      "MRP": 2000,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "CSF-(FTA-ABS)",
+      "MRP": 1500,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "CSF-CRYPTOCOCCUS ANTIGEN DETECTION",
+      "MRP": 2000,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "CYFRA 21-1; LUNG CANCER MARKER",
+      "MRP": 2700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cystatin - C",
+      "MRP": 1100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cysticercus Antibody (IgG), ELISA, CSF",
+      "MRP": 1200,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Cysticercus Antibody (IgG), SERUM",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "CYTOMEGALOVIRUS (CMV) PCR, QUANTITATIVE,",
+      "MRP": 5500,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "CYTOMEGALOVIRUS (CMV) PCR, QUANTITATIVE, URINE",
+      "MRP": 5500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "CYTOMEGALOVIRUS AVIDITY(CMV), IgG",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Cytomegalovirus IgG Antibody (CMV IgG)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Cytomegalovirus IgM Antibody (CMV IgM)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "D - DIMER QUANTITATIVE",
+      "MRP": 1000,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "DEHYDROEPIANDROSTERONE (DHEA)",
+      "MRP": 2400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Dehydroepiandrosterone Sulphate (DHEA-S)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "DENGUE NS1 RAPID",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "DENGUE ANTIGEN ELISA NS1",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "DENGUE ELISA IgG",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "DENGUE ELISA IgG,IgM,NS1",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "DENGUE ELISA IgM",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "DENGUE IgG,IgM-Rapid",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "Deoxycortisol",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "DIABETIC CAMP PROFILE",
+      "MRP": 4500,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "DIABETIC PANEL - MINI",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "DIABETIC PROFILE - A",
+      "MRP": 4500,
+      "Sample Collection": "EDTUAr iBnleood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "DIABETIC PROFILE - B",
+      "MRP": 4500,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "DIABETIC PROFILE - C",
+      "MRP": 6000,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "DIABETIC PROFILE - M",
+      "MRP": 1800,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "DIABETIC PROFILE NEW",
+      "MRP": 13000,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Digoxin",
+      "MRP": 900,
+      "Sample Collection": "SSeerruumm"
+    },
+    {
+      "Category": "General",
+      "Test Name": "DIHYDROTESTOSTERONE DHT FREE",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "DIPHTHERIA ANTIBODY IgG",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "DIRECT COOMB'S TEST (DCT)",
+      "MRP": 450,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "DLC (Differential Leukocyte Count) - 5 part",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Dopamine",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "DOUBLE MARKER - FIRST TRIMESTER",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Drain Fluid Cytology",
+      "MRP": 500,
+      "Sample Collection": "Drain Fluid"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "DRUGS ALLERGY",
+      "MRP": 3500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "DRUGS OF ABUSE (10 drugs)",
+      "MRP": 2000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Dysmorphic RBC",
+      "MRP": 250,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Ear Swab C/S",
+      "MRP": 500,
+      "Sample Collection": "EAR SWAB"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "EB FOR AFB &TB PCR",
+      "MRP": 5000,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "ECHINOCOCCUS IgG,IgM ELISA",
+      "MRP": 2400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Echinococcus Antibody IgG (Hydatid serology)",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "EGG ALLERGY",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Electrolyte Panel- (N a, K, Cl)",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Endomysial Antibody IgA",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Eosinophils Sputum",
+      "MRP": 200,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Epstein Bar Virus IgG",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Epstein Bar Virus IgM",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "EPSTEIN BARR VIRUS ANTIBODY TO VIRAL CAPSID",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "AEPNSTTIGEIENNB A(VRCRA V) IIRgUMS ANTIBODY TO NUCLEAR ANTIGEN",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "(EErBytNhAro) cIgyGte Count (RBC Count)",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Erythrocyte Sedimentation Rate (ESR)",
+      "MRP": 150,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Erythropoietin (EPO)",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "ESTRADIOL (E2)",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Eye Swab C/S",
+      "MRP": 500,
+      "Sample Collection": "EYE SWAB"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Factor IX FUNCTIONAL",
+      "MRP": 1800,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Factor V",
+      "MRP": 3200,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "factor v leiden",
+      "MRP": 5200,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FACTOR VII",
+      "MRP": 2900,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Factor VIII FUNCTIONAL / ACTIVITY",
+      "MRP": 1800,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "FAECAL CALPROTECTIN OR FECAL CALPROTECTIN",
+      "MRP": 3000,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FECAL ELASTASE, STOOL",
+      "MRP": 7000,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "FEMILY PROFILE 1.1",
+      "MRP": 900,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FERRITIN",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FIBRINOGEN",
+      "MRP": 1000,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fibrinogen Degradation Product (FDP)",
+      "MRP": 1000,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FILARIA Ag TEST (QUALITATIVE)",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FILARIAL IgG-IgM Rapid",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FILARIASIS TEST (QUALITATIVE)",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FLUID ACR",
+      "MRP": 100,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FLUID C/S",
+      "MRP": 500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Cancer Marker",
+      "Test Name": "Fluid CA 125",
+      "MRP": 800,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fluid Cell Count",
+      "MRP": 100,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "FLUID Creatinine",
+      "MRP": 100,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fluid Cytology",
+      "MRP": 500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "fluid cytology,R/M",
+      "MRP": 550,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "fluid for Z-N Stain",
+      "MRP": 500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fluid Routine Examination",
+      "MRP": 450,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FLUORESCENT TREPONEMAL ANTIBODIES; FTA-ABS,",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SFENRAUCM (Fine Needle Aspiration Cytology)",
+      "MRP": 500,
+      "Sample Collection": "SLIDE"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "FOLATE (FOLIC ACID), RBC",
+      "MRP": 700,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Folic Acid",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Free Androgen Index",
+      "MRP": 2100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "FREE Beta Human Chorionic Gonodotropin Hormone",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "(FBruHcCtGos)amine",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "FSH (Follicle Stimulating Hormone)",
+      "MRP": 350,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "FT3 (Trilodothyronine- Free)",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "FT3, FT4, TSH",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "FT4 (Thyroxine- Free)",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "FT4,TSH",
+      "MRP": 230,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fungal Examination",
+      "MRP": 450,
+      "Sample Collection": "SWAB"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Fungal FOR URINE",
+      "MRP": 250,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fungal Stain",
+      "MRP": 150,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fungal Stain (FLUID)",
+      "MRP": 200,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fungal Stain (SPUTUM)",
+      "MRP": 100,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Fungal Stain, CSF",
+      "MRP": 150,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "GAD 65 Antibody , Serum",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "GANGLIOSIDE GDa ANTIBODY IgG",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "GANGLIOSIDE GDa ANTIBODY IgM",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "GASTRIN",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Gene Xpert (CB NAAT) CSF",
+      "MRP": 5000,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Gene Xpert (CB NAAT) FLUID",
+      "MRP": 4000,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Gene Xpert (CB NAAT) PUS",
+      "MRP": 5000,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Gene Xpert (CB NAAT) SPUTUM",
+      "MRP": 4000,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Gene Xpert (CB NAAT) TISSUE",
+      "MRP": 5000,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Gene Xpert (CB NAAT) URINE",
+      "MRP": 4000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "GFR (GLOMERULAR FILTRATION RATE)",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "GGT (Gamma Glutamyl Transferase)",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Globulin",
+      "MRP": 100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Glucose 6 Phosphate Dehydrogenase (G6PD Quantitative)",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Glucose F (Blood Sugar Fasting)",
+      "MRP": 100,
+      "Sample Collection": "Fluoride Plasma-01"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Glucose PP (Blood Sugar Post prandial)",
+      "MRP": 100,
+      "Sample Collection": "Fluoride Plasma-02"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Glucose R (Blood Sugar Random)",
+      "MRP": 100,
+      "Sample Collection": "Fluoride Plasma-03"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "GLUCOSE TOLERANCE TEST ( GTT) - 3 SAMPLES",
+      "MRP": 200,
+      "Sample Collection": "Fluoride Plasma-\n01,\nFluoride Plasma-"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "GLUCOSE TOLERANCE TEST ( GTT) - 5 SAMPLES",
+      "MRP": 300,
+      "Sample Collection": "Fluorid0e2 P,lasma-\n01,\nFluoride Plasma-\n02,\nFluoride Plasma-"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Glucose-6-phosphate dehydrogenase(G6PD), Qualitative",
+      "MRP": 1000,
+      "Sample Collection": "EDTA0 3B,lood"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Glycated Haemoglobin (HbA1c)",
+      "MRP": 550,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Growth Hormone (HGH)",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "GYNO-7",
+      "MRP": 3200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "H1N1 (SWINE FLU) QUALITATIVE, REAL TIME PCR",
+      "MRP": 4500,
+      "Sample Collection": "SWAB"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HAIRFALL PROFILE-MALE",
+      "MRP": 2500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Haptoglobin",
+      "MRP": 1900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Hb Electrophoresis by HPLC",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "HB, TLC, D LC, ESR",
+      "MRP": 320,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HB, TLC, DLC",
+      "MRP": 220,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HB,Sodium,Potassium",
+      "MRP": 250,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HBV DNA quantitative",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Hcv genotyping",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HCV IgG,",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HCV RNA PCR Quantitative",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "health check advance",
+      "MRP": 2400,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "health check basic",
+      "MRP": 900,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HEALTH PROFILE -2",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HEALTH PROFILE-1",
+      "MRP": 1000,
+      "Sample Collection": "EDTUAr iBnleood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HEALTH PROFILE-3",
+      "MRP": 2000,
+      "Sample Collection": "EDTUAr iBnleood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HELICOBACTER PYLORI - IgA",
+      "MRP": 1600,
+      "Sample Collection": "SUerriunme"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HELICOBACTER PYLORI - IgG",
+      "MRP": 1600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HELICOBACTER PYLORI - IgM",
+      "MRP": 1600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "HELICOBACTER PYLORI ANTIGEN (H. PYLORI), STOOL",
+      "MRP": 1400,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Hemoglobin",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HEMOPHILIA PROFILE",
+      "MRP": 13000,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "HEPATITIS B ENVELOPE ANTIGEN (HbeAg )",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis PROFILE",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis A virus IgM Antibodies (HAV lgM)",
+      "MRP": 1100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis A virus IgG Antibodies (HAV IgG)",
+      "MRP": 1100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis A virus Total Antibodies (HAV-Total)",
+      "MRP": 1250,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B core antibody IgM (HBC IgM)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B core antigen - Total",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B core antigen TOTAL",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B Envelope antibody(Anti-HBeAb)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "HEPATITIS B ENVELOPE ANTIGEN (AHBE) - TOTAL",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "HEPATITIS B PROFILE",
+      "MRP": 6000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B surface Antibody (HBsAb)",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B surface antigen (HBs Ag) (Rapid)",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B surface antigen (HBs Ag) CLIA",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B surface antigen (HBsAg)",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B surface antigen IgG",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis B surface antigen IgM",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis C virus (HCV Rapid)",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis C virus (HCV) CLIA",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Hepatitis C virus (HCV) ELISA",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "HEPATITIS E ANTIBODY ( HEV), IgG",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "HEPATITIS E ANTIBODY ( HEV), IgM",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgG 1",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgG 1, CSF",
+      "MRP": 600,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgG 2",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgG 2, CSF",
+      "MRP": 600,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgM 1",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgM 1, CSF",
+      "MRP": 600,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgM 2",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Herpes Simplex Virus (HSV) -IgM 2, CSF",
+      "MRP": 600,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HERPES SIMPLEX VIRUS (HSV) TYPE 1 & 2, PCR,",
+      "MRP": 4500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "QHiUstAoLnITeATIVE SERUM",
+      "MRP": 1400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Histopathology (L)",
+      "MRP": 1400,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Histopathology (M)",
+      "MRP": 900,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Histopathology (s)",
+      "MRP": 500,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HIV 1 & 2 Antibody ELISA",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HIV 1 & 2 Antibody -Rapid",
+      "MRP": 450,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HIV 1 RNA PCR - Qualitative",
+      "MRP": 3500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HIV 1- Quantitative PCR",
+      "MRP": 3500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HIV Western Blot",
+      "MRP": 2200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "HIV-p24 Antigen detection",
+      "MRP": 4500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HLA TYPING",
+      "MRP": 12000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HLA- B27 ESTIMATION",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HLA-B27 PCR",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HLAB* 5701",
+      "MRP": 6500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HOMA -IR",
+      "MRP": 1000,
+      "Sample Collection": "Fluoride Plasma-\n01,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Homocysteine, Serum",
+      "MRP": 1000,
+      "Sample Collection": "SSeerruumm"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Homocysteine, Urine",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Homovanillic acid (HVA), 24 hours urine",
+      "MRP": 3500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Homovanillic acid (HVA), random urine",
+      "MRP": 3500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HPCL",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "hs-CRP (hs-C Reactive Protein )",
+      "MRP": 700,
+      "Sample Collection": "SUerriunme"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HSV 1&2 DNA Qualitative PCR (CSF)",
+      "MRP": 4500,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Human Papilloma Virus (HPV)",
+      "MRP": 2000,
+      "Sample Collection": "liquid"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "HUMAN PAPILLOMA VIRUS (HPV), REAL TIME PCR",
+      "MRP": 200,
+      "Sample Collection": "liquid"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FIT PROFILE",
+      "MRP": 3500,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HY AAROGYAM-1.3",
+      "MRP": 3000,
+      "Sample Collection": "EDTUAr iBnleood,\nSerum,\nFluoride Plasma-\n01,"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "HY ANC 3",
+      "MRP": 1000,
+      "Sample Collection": "EDTUAr iBnleood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY coagulation profile -1",
+      "MRP": 2500,
+      "Sample Collection": "CitratUerdi nPelasma"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY COMPLETE FIVERR PROFILE",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY DIABETES PROFILE",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "HY DIABETIC PROFILE - ADVANCED",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "HY DIABETIC-1",
+      "MRP": 2500,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "HY DIABETIC-2",
+      "MRP": 2700,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HY FEVER-1",
+      "MRP": 750,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HY FEVER-2",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HY FEVER-3",
+      "MRP": 1800,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HY FEVER-4",
+      "MRP": 2200,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "HY FIT1.3+Cardiac Risk",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HY FIT3 +RA",
+      "MRP": 2500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS 1.0",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS 4.1",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Blood,\nSerum,\nFluoride Plasma-01"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS SMART 3",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS-1",
+      "MRP": 1000,
+      "Sample Collection": "EDTUAr iBnleood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS-1.1",
+      "MRP": 1200,
+      "Sample Collection": "SUerriunme"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS-1.2",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS-1.3",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS-2",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS-3",
+      "MRP": 3000,
+      "Sample Collection": "EDTUAr iBnleood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY FITNESS-4",
+      "MRP": 4000,
+      "Sample Collection": "EDTUAr iBnleood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "HY FLUID-1",
+      "MRP": 1000,
+      "Sample Collection": "BoUdyri nFleuid"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "HY HEART ADVANCED",
+      "MRP": 1800,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "HY HEART BASIC",
+      "MRP": 900,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "HY WOMEN PROFILE",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "IA2 - Insulin",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "IGF Binding Protein-3 (IGFBP-3)",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "IGF-I",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "IgG4 SUB",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "IgM 24 hrs Urine",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "IHC",
+      "MRP": 20000,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "Immunity profile",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Immunofixation Electrophoresis",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Immunoglobulin (IgA)",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Immunoglobulin D (IgD)",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Immunoglobulin G (IgG)",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "IMMUNOGLOBULIN IgG SUBCLASS",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "IMMUNOGLOBULIN IgG, index CSF",
+      "MRP": 1000,
+      "Sample Collection": "CSF,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Immunoglobulin M (IgM)",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "IMMUNOGLOBULIN-IgE(Total IgE)",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Indirect Coombs test (ICT)",
+      "MRP": 450,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "INFERTILITY PROFILE - A",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "INFERTILITY PROFILE - B",
+      "MRP": 8000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "INFERTILITY PROFILE-FEMALE",
+      "MRP": 3500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "INFERTILITY PROFILE-MALE",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "INHALANT",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "INHALANT + FOOD ALLERGY",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Inhibin -A",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Inhibin -B",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "inorganic phosphorus",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Insulin - Post Prandial",
+      "MRP": 550,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Insulin antibodies, serum",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Insulin Fasting",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "Insulin Random",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "insulin sensitivity",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "Intact Parathyroid Hormone (iPTH)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Interleukin 6",
+      "MRP": 2200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Intrinsic Factor Antibody",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Ionized Calcium",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "IRON",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "IRON PROFILE",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Islet Cell Antibody",
+      "MRP": 4500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "JAK2 mutation test",
+      "MRP": 10000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "JANTA HEALTH PACKAGE",
+      "MRP": 3600,
+      "Sample Collection": "EDTA Blood,\nSerum,\nUrine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Jo-1 ANTIBODY",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "KALP PACKGE 5",
+      "MRP": 1400,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "KAPPA / LAMBDA LIGHT CHAINS, FREE, SERUM",
+      "MRP": 4000,
+      "Sample Collection": "SSeerruumm"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Karyotyping-POC",
+      "MRP": 6000,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Ketone (Acetone,Hydroxybutyrate), serum",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Ketone (Acetone,Hydroxybutyrate),Urine",
+      "MRP": 400,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Kidney Profile",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Kidney Profile with GFR",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "KIDPRO",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "KOH Preparation",
+      "MRP": 300,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LABRAGEWOMEN",
+      "MRP": 3000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lactate Dehyderogenase (LDH) FLUID",
+      "MRP": 900,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LACTATE DEHYDROGENASE(LDH)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lactate Plasma",
+      "MRP": 950,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lambda Light Chain",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LaminIn",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LE Cells",
+      "MRP": 400,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LEAD TEST",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LEPROSY-IgG",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LEPROSY-IgG,IgM",
+      "MRP": 1800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LEPROSY-IgM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LEPTIN",
+      "MRP": 3500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Leptospira Antibody IgG",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Leptospira Antibody IgM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Leshmania Antibodies (KALA AZAR ) RK - 39",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "LH,FSH,PRL",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "LH,FSH,PRL,TSH",
+      "MRP": 1300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "LH:FSH Ratio",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lipase",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lipase Pleural Fluid",
+      "MRP": 500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Lipase Random Urine",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "Lipid Profile",
+      "MRP": 650,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lipoprotein (A) [Lp(a)]",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "liquid-based Pap smear",
+      "MRP": 1000,
+      "Sample Collection": "liquid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lithium (Li)",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "liver abscess cytology",
+      "MRP": 500,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Liver Cytosolic Antigen Type 1 (LC-1) Antibody",
+      "MRP": 3500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "LIVER FUNCTION TESTS",
+      "MRP": 650,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Liver-Kidney Microsome (LKM) -1 Antibody",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "LP-PLA2",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Lupus Anticoagulant (DRVVT)",
+      "MRP": 1500,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "Luteinising Hormone (LH)",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Magnesium",
+      "MRP": 350,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Magnesium 24 hrs Urine",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Magnesium Random Urine",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "Malarial Falciparum and Vivax Antigen (Parasite V & F)",
+      "MRP": 400,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Malarial Parasite slide",
+      "MRP": 200,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "mantoux test",
+      "MRP": 100,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Marijuana (CANNABINOIDS)",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MCH-Mean Corpuscular Haemoglobin",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MCHC-Mean Corpuscular Haemoglobin Concentration",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MCV-Mean Corpuscular Volume",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Mean Platelet Volume",
+      "MRP": 150,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Measles IgG Antibodies",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Measles IgM Antibodies",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "MENSTRUAL BLOOD AFB",
+      "MRP": 400,
+      "Sample Collection": "Menstruation"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Metanephrine free serum",
+      "MRP": 1500,
+      "Sample Collection": "Sbeloruomd"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Metanephrine serum",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "METHANOL URINE, RANDOM",
+      "MRP": 2500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Microalbumin (Urine Random)",
+      "MRP": 400,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Microalbumin & Creatinine ratio (Urine )",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Microalbumin 24 hrs URINE",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Microalbumin SERUM",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MICROFILARIA (RAPID)",
+      "MRP": 600,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MICROFILARIA IgG, IgM",
+      "MRP": 1300,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MICROFILARIA SLIDE",
+      "MRP": 400,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "Milk Allergy",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MILK C/S",
+      "MRP": 400,
+      "Sample Collection": "MILK"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MISCELLANEOUS C/S",
+      "MRP": 400,
+      "Sample Collection": "INSTRUMENTS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MITOCHONDRIAL ANTIBODY (AMA)",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "modified acid fast stain for leprosy nasal smear",
+      "MRP": 500,
+      "Sample Collection": "Nasal Swab"
+    },
+    {
+      "Category": "General",
+      "Test Name": "modified acid fast stain for leprosy skin smear",
+      "MRP": 500,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MOTHER MILK CYTOLOGY",
+      "MRP": 400,
+      "Sample Collection": "MOTHER MILK"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "MULTIPLE MYELOMA PROFILE",
+      "MRP": 10000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Mumps IgG",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Mumps IgM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Mycobacterium TB PCR - Qualitative (EDTA)",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Mycobacterium TB PCR - Qualitative (FLUID)",
+      "MRP": 1500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Mycobacterium TB PCR - Qualitative (menstruation",
+      "MRP": 1500,
+      "Sample Collection": "Menstruation"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "BMLyOcOobDa)cterium TB PCR - Qualitative (PUS)",
+      "MRP": 1700,
+      "Sample Collection": "bPloUoSd"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Mycobacterium TB PCR - Qualitative (SPUTUM)",
+      "MRP": 1700,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Mycobacterium TB PCR - Qualitative (STOOL)",
+      "MRP": 2000,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Mycobacterium TB PCR - Qualitative (TISSUE)",
+      "MRP": 1500,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Mycobacterium TB PCR - Qualitative (URINE)",
+      "MRP": 1500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Mycoplasma Pneumoniae IgG",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Mycoplasma Pneumoniae IgM",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "MYELIN BASIC PROTEIN MBP",
+      "MRP": 2000,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Myoglobin SERUM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Myoglobin URINE",
+      "MRP": 1200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Nasal smear for eosinophils",
+      "MRP": 200,
+      "Sample Collection": "Nasal Swab"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Nasal Swab C/S",
+      "MRP": 500,
+      "Sample Collection": "Nasal Swab"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Niacin (VITAMIN B3)",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "NIPT (Noninvasive prenatal testing)",
+      "MRP": 25000,
+      "Sample Collection": "Blood ccfDNA"
+    },
+    {
+      "Category": "Heart/Cardiac",
+      "Test Name": "NT-Pro BNP",
+      "MRP": 1700,
+      "Sample Collection": "STeurubme"
+    },
+    {
+      "Category": "General",
+      "Test Name": "OLIGOCLONAL BANDS IgG, CSF",
+      "MRP": 5500,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Opiates / Morphine",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "ORAL GLUCOSE CHALLENGE TEST (OGCT)",
+      "MRP": 160,
+      "Sample Collection": "Fluoride Plasma-01"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "ORGANIC ACIDS URINE",
+      "MRP": 800,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "OROTIC ACID",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Osmolality - 24 hrs Urine",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Osmolality - Serum",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Osmolality - Urine Random",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "OT Swabs C/S",
+      "MRP": 500,
+      "Sample Collection": "OT Swabs"
+    },
+    {
+      "Category": "General",
+      "Test Name": "OXALATE",
+      "MRP": 700,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Oxalates, Urine 24 Hours",
+      "MRP": 2000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "P850",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,\nSerum,"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Pantothenic acid (VITAMIN B5)",
+      "MRP": 1200,
+      "Sample Collection": "SUerriunme"
+    },
+    {
+      "Category": "General",
+      "Test Name": "PAP Smear",
+      "MRP": 500,
+      "Sample Collection": "SLIDE"
+    },
+    {
+      "Category": "General",
+      "Test Name": "papp-a",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Parvovirus B19 IgG,IgM",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Parvovirus B19 IgM",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "PCOD EXTENDED PROFILE",
+      "MRP": 7500,
+      "Sample Collection": "Fluoride Plasma-\n01,"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "PCOD PROFILE",
+      "MRP": 4000,
+      "Sample Collection": "EDTSAer Bulmood,\nSerum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Peripheral Blood Smear (PBS O R PBF)",
+      "MRP": 250,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "PH Urine",
+      "MRP": 100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "phenobarbital",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Phenobarbitone",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "PHENOL URINE, RANDOM",
+      "MRP": 2500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Phenytoin",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "PHENYTOIN/DILANTIN/EPTOIN",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "PHOSPHATE URINE RANDOM",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Phosphorous , serum",
+      "MRP": 180,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Phosphorus (24 Hrs Urinary)",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Phosphorus Urine Random",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Plasma Metanephrine",
+      "MRP": 2200,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Plasma Non metanephrine free",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Plasma Renin Activity",
+      "MRP": 1500,
+      "Sample Collection": "EDTA Plasma"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Platelet Count",
+      "MRP": 150,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Pleural Fluid Cytology",
+      "MRP": 500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "POC microarray",
+      "MRP": 25000,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "POOLED PRL",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "PORPHOBILINOGEN (PBG), QUALITATIVE, URINE",
+      "MRP": 400,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Potassium",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Potassium 24 hrs Urine",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Potassium Random URINE",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Pregnancy/Women",
+      "Test Name": "pregnancy profile",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Pregnancy Test Urine",
+      "MRP": 100,
+      "Sample Collection": "SUerriunme"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Procalcitonin",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Hormone",
+      "Test Name": "Progesterone",
+      "MRP": 550,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Prolactin (PRL)",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein (Microprotein) Random - Urinary",
+      "MRP": 100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein (Serum)",
+      "MRP": 220,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Protein (Urine)",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein - Fluids",
+      "MRP": 200,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein - Total",
+      "MRP": 220,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein 24 hrs - Urinary",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein c",
+      "MRP": 2500,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein Electrophoresis (Serum)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Protein Electrophoresis (Urine)",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein S",
+      "MRP": 2500,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Protein Total with Albumin & PA Ratio",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Protein/Creatinine Ratio Serum",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Prothrombin Time (PT) with INR",
+      "MRP": 400,
+      "Sample Collection": "Citrated Plasma"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "PSA- Free (Prostrate Specific Antigen Free)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "PSA- Total (Prostrate Specific Antigen total)",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "PUS C/S Anaerobic",
+      "MRP": 500,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Pus c/s BACTEC Aerobic",
+      "MRP": 1000,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Pus Cytology",
+      "MRP": 500,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "PUS FOR AFB STAIN & GRAM STAIN",
+      "MRP": 400,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "PUS MICROSCOPY",
+      "MRP": 200,
+      "Sample Collection": "PUS"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Pyridoxal 5 phosphate (VITAMIN B6)",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Pyruvate",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "QUADRUPLE MARKER - SECOND TRIMESTER",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "RAPID PLASMA REAGIN (RPR TEST)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "RBC-Red Blood Cell Count",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "RDW - Red Cell Distribution width",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Reticulocyte Count",
+      "MRP": 150,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Rh Antibody Titer",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Rheumatoid Factor (RA test) Quantitative",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Rheumatoid Factor, RA test",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Riboflavin (VITAMIN B2)",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Roma Score ( HE4 & CA125)",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Rota virus detection",
+      "MRP": 1000,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "RUBELLA AVIDITY, IgG, SERUM",
+      "MRP": 700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Rubella Virus - IgG",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Rubella Virus - IgM",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Saag test",
+      "MRP": 400,
+      "Sample Collection": "Serum,\nBody Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Salmonella Typhi (TYPHI DOT IgG & IgM)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Salmonella Typhi (TYPHI DOT IgG)",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Salmonella Typhi (TYPHI DOT IgM)",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "SARS CoV 2 (COVID 19) ANTIBODIES",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "SARS CoV-2 (COVID-19) Antibody IgG",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "SARS CoV-2 (COVID-19) Antibody IgM",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "SARS CoV-2 (COVID-19) Antibody Total",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Scl-70 (SCLERODERMA) ANTIBODY",
+      "MRP": 1800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SCRUB TYPHUS IGG",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SCRUB TYPHUS IGM",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Semen Analysis",
+      "MRP": 300,
+      "Sample Collection": "SEMEN"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SEMEN C/S",
+      "MRP": 500,
+      "Sample Collection": "SEMEN"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Serotonin-(5-Hydroxy Tryptamine)",
+      "MRP": 7500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Serum Acetylcholinesterase, Erythrocytes",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SERUM CERULOPLASMIN",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Serum Free Lambda (Light Chain)",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Serum HEPCIDIN",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Serum phosphate",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sex Hormone Binding Globulin (SHBG)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SGOT ; Aspartate Aminotransferase (AST)",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SGPT ; ALANINE AMINOTRANSFERASE (ALT)",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "sickle cell",
+      "MRP": 600,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sickling Test",
+      "MRP": 500,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Skin afb",
+      "MRP": 400,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Skin scraping for Fungal C/S",
+      "MRP": 500,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Skin scraping for Fungal examination",
+      "MRP": 600,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sm/RNP ANTIBODIES",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sm/RNP Antibody",
+      "MRP": 1800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sodium",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Sodium 24hrs Urine",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sodium biocorbonet",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Sodium Random Urine",
+      "MRP": 300,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sodium,Potassium",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Specific Gravity Urine",
+      "MRP": 100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "SPOT urine Protein/Creatinine Ratio",
+      "MRP": 120,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SPUTUM for koh",
+      "MRP": 400,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SPUTUM AFB",
+      "MRP": 400,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SPUTUM AFB CULTURE FOR ATT",
+      "MRP": 2500,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SPUTUM C/S",
+      "MRP": 500,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Sputum Cytology",
+      "MRP": 500,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SPUTUM FOR GRAM STAIN",
+      "MRP": 150,
+      "Sample Collection": "SPUTUM"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Stone Analysis",
+      "MRP": 1000,
+      "Sample Collection": "Stone"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Stone Analysis Gall bladder",
+      "MRP": 1000,
+      "Sample Collection": "Stone"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Stone Analysis Kidney",
+      "MRP": 1000,
+      "Sample Collection": "Stone"
+    },
+    {
+      "Category": "General",
+      "Test Name": "STOOL C/S",
+      "MRP": 500,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Stool Examination",
+      "MRP": 200,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Stool Examination for ova & cysts",
+      "MRP": 200,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "stool for fat stain",
+      "MRP": 300,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Stool for Hanging Drop",
+      "MRP": 200,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "stool for occult blood",
+      "MRP": 300,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "STOOL FOR REDUCING SUGAR",
+      "MRP": 130,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "STOOL Metanephrine",
+      "MRP": 2200,
+      "Sample Collection": "STOOL"
+    },
+    {
+      "Category": "General",
+      "Test Name": "SWAB C/S",
+      "MRP": 500,
+      "Sample Collection": "SWAB"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Synovial Fluid Cytology",
+      "MRP": 500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Synovial Fluid for Crystals",
+      "MRP": 500,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "T4,TSH",
+      "MRP": 250,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TACROLIMUS",
+      "MRP": 3600,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "TB GOLD, INTERFERON GAMMA RELEASE ASSAY (IGRA)",
+      "MRP": 2000,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "TB PLATINUM, INTERFERON GAMMA RELEASE ASSAY",
+      "MRP": 1500,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "General",
+      "Test Name": "(TIBG RPALA)TINUM, INTERFERON GAMMA RELEASE ASSAY",
+      "MRP": 2500,
+      "Sample Collection": "Heparin"
+    },
+    {
+      "Category": "General",
+      "Test Name": "(TIeGsRtoAs).terone- Free",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Testosterone- Total",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Full Body Packages",
+      "Test Name": "THALASSEMIA PROFILE",
+      "MRP": 3600,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "THALASSEMIA SCREEN",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Thiamine (VITAMIN B 1)",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Throat Swab C/S",
+      "MRP": 500,
+      "Sample Collection": "SWAB"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Thyroglobulin",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "THYROID PROFILE -3 (T3 T4 TSH)",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "THYROID PROFILE-5 (FT3 FT4 T3 T4 TSH )",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "Thyroid Stimulating Hormone (TSH)",
+      "MRP": 250,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TIBC (Total Iron Binding Capacity)",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TISSUE AFB AND MALIGNANT CELL",
+      "MRP": 600,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TISSUE C/S Aerobic",
+      "MRP": 1000,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TISSUE C/S Anaerobic",
+      "MRP": 400,
+      "Sample Collection": "Tissue"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Tissue Transglutaminase Antibody ( tTG-IgA)",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Tissue Transglutaminase Antibody ( tTG-IgG)",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Tissue Transglutaminase Antibody ( tTG-IgM)",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TISSUE TRANSGLUTAMINASE TTG-DGP SCREEN",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TLC (Total Leukocyte Count)",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "TLC, DLC, ESR",
+      "MRP": 300,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TORCH-10",
+      "MRP": 2400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TORCH-10 WITH Avidity",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TORCH-4 IgG",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TORCH-4 IgM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TORCH-8",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TORCH-IgG-5",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TORCH-IgM-5",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Total Count & Differential Count (TLC & DLC)",
+      "MRP": 200,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Total Eosinophil Count (TEC)",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TOTAL TRIIODOTHYRONINE (T3)",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "toxoplasma avidity test",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Toxoplasma-IgG",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Toxoplasma-IgM",
+      "MRP": 300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TPHA; TREPONEMA PALLIDUM HEMAGGLUTINATION",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TPMT Genotyping",
+      "MRP": 5000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Tracheal tube c/s",
+      "MRP": 400,
+      "Sample Collection": "Tracheal Tube"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Transferrin",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Treponema Pallidum",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TREPONEMA PALLIDUM ANTIBODY (TPAB)",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TREPONEMA PALLIDUM HAEMAGGLUTINATION",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Trichomoniasis test (Female)",
+      "MRP": 600,
+      "Sample Collection": "VAGINAL SWAB"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Trichomoniasis test (Male)",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TRIGLYCERIDES",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Triglycerides (TG) Body fluids",
+      "MRP": 200,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Triglycerides (TG) Urine",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TriIodothyronine Total (T4)",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Triple H - (HIV,HBsAg,HCV antibody) ELISA",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TRIPLE MARKER - SECOND TRIMESTER",
+      "MRP": 2000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Troponin - I (Quantitative)",
+      "MRP": 1400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Troponin - I, Qualitative",
+      "MRP": 1300,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TROPONIN- T, HIGH SENSITIVE (CLIA)",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TROPONIN-T",
+      "MRP": 1300,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "Tsh receptor antibody",
+      "MRP": 4000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "TSH Ultrasensitive",
+      "MRP": 400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "TSH,PRL",
+      "MRP": 600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TUMOUR PANEL (FEMALE)",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "TUMOUR PANEL (MALE)",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "U1RNP ANTIBODIES, SERUM",
+      "MRP": 1500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Unconjugated Estriol(E3)",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "Urea (Blood)",
+      "MRP": 100,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urea 24 hrs Urine",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urea, Urine spot",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Uric Acid",
+      "MRP": 150,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Uric Acid 24 hrs Urine",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Uric Acid Synovial Fluid",
+      "MRP": 150,
+      "Sample Collection": "Body Fluid"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Uric Acid, Urine spot",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URIC ACID/CREATININE, 24 HOURS URINE",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine Bile Salt & Bile Pigment",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URINE C/S",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "urine casts",
+      "MRP": 50,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine Conductivity",
+      "MRP": 250,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URINE CYTOLOGY",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URINE FOR AFB Stain",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine for Chyle",
+      "MRP": 400,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine for Fat Globulins",
+      "MRP": 100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URINE FOR GRAM STAIN",
+      "MRP": 200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "urine for hemosiderin",
+      "MRP": 400,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine for Toxic Element Profile",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "URINE Glucose (Fasting),",
+      "MRP": 100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "URINE Glucose (PP)",
+      "MRP": 100,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine Metanephrine 24 hrs",
+      "MRP": 2200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine Metanephrine spot",
+      "MRP": 2200,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URINE MIC C/S",
+      "MRP": 1600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URINE PROTEIN & CRETININE RANDOM",
+      "MRP": 600,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "URINE Protein /Creat Ratio Random",
+      "MRP": 500,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Urine R/M (Urine Analysis)",
+      "MRP": 150,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "UROBILINOGEN QUALITATIVE, URINE",
+      "MRP": 400,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "VAGINAL SWAB C/S",
+      "MRP": 500,
+      "Sample Collection": "SWAB"
+    },
+    {
+      "Category": "Liver",
+      "Test Name": "Valporic Acid (Sodium Valproate)",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Varicella-Zoster Virus (VZV) Chicken Pox-IgG",
+      "MRP": 1400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Varicella-Zoster Virus (VZV) Chicken Pox-IgG,IgM",
+      "MRP": 2500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "Varicella-Zoster Virus (VZV) Chicken Pox-IgM",
+      "MRP": 1400,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "VDRL CSF RAPID",
+      "MRP": 250,
+      "Sample Collection": "CSF"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Vdrl (Rapid)",
+      "MRP": 350,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "VDRL (RPR), Quantitative",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Vitamin B 6",
+      "MRP": 4000,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "VITAMIN A",
+      "MRP": 4000,
+      "Sample Collection": "Serum,\nSerum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "VITAMIN B COMPLEX PROFILE",
+      "MRP": 7000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Vitamin B12",
+      "MRP": 900,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "VITAMIN C",
+      "MRP": 3500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Vitamin D 3 (1, 25 D ihydroxyvitamin D 3)",
+      "MRP": 3000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Vitamin D PROFILE (D2,D3,TOTAL D)",
+      "MRP": 1200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Vitamin d2",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Vitamin D3",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "VITAMIN E",
+      "MRP": 6000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "VITAMIN K",
+      "MRP": 5000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "Vitamin Profile (D2,D3,B12,TOTAL D)",
+      "MRP": 1700,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Vitamin",
+      "Test Name": "VITAMIN PROFILE (TOTAL VID- D,B 12,FOLIC",
+      "MRP": 650,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Thyroid",
+      "Test Name": "AVLCDIDL,CALCIUM,T3 T4 TSH )",
+      "MRP": 350,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "VMA-Vanillylmandelic Acid 24 Hours Urine",
+      "MRP": 2000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "VMA-Vanillylmandelic Acid Spot Urine",
+      "MRP": 2000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WBC (Leucocytes )",
+      "MRP": 100,
+      "Sample Collection": "EDTA Blood"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Weil -Felix",
+      "MRP": 800,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "WELLENESS1.2 ESR",
+      "MRP": 1800,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Wellness -1",
+      "MRP": 1200,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Wellness -2",
+      "MRP": 1800,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Wellness -3",
+      "MRP": 2500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.1",
+      "MRP": 1600,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.1 MINI",
+      "MRP": 800,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Blood Test",
+      "Test Name": "WELLNESS-1.1+CBC",
+      "MRP": 1000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Diabetes",
+      "Test Name": "WELLNESS-1.1+CBC+GLUCOSE",
+      "MRP": 1100,
+      "Sample Collection": "EDTA Blood,\nFluoride Plasma-\n01,"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.2",
+      "MRP": 2400,
+      "Sample Collection": "EDTSAer Bulmood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.3",
+      "MRP": 3200,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.3+RA+CRP",
+      "MRP": 2000,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.4",
+      "MRP": 4800,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.5",
+      "MRP": 5800,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.6",
+      "MRP": 6500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "WELLNESS-1.7",
+      "MRP": 7500,
+      "Sample Collection": "EDTA Blood,\nSerum"
+    },
+    {
+      "Category": "Allergy",
+      "Test Name": "WHEAT allergy",
+      "MRP": 500,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Widal Test (Slide Test)",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Widal Test (Tube Test)",
+      "MRP": 200,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Z-N STAIN for leprosy",
+      "MRP": 500,
+      "Sample Collection": "SKIN SCRAPPINGS"
+    },
+    {
+      "Category": "Infection",
+      "Test Name": "ZIKA VIRUS",
+      "MRP": 20000,
+      "Sample Collection": "Serum"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Zinc 24 hrs Urine",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "Kidney",
+      "Test Name": "Zinc Random Urine",
+      "MRP": 1000,
+      "Sample Collection": "Urine"
+    },
+    {
+      "Category": "General",
+      "Test Name": "Zinc SERUM",
+      "MRP": 1000,
+      "Sample Collection": "Serum"
+    }
+  ]
+}
